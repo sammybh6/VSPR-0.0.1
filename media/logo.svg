@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(0,0,0,0)"/>
+<g transform="matrix(1.9408 0 0 1.9408 520.1258 497.3448)" id="440667">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-192, -256)" d="M 320 464 c 8.8 0 16 -7.2 16 -16 V 160 H 256 c -17.7 0 -32 -14.3 -32 -32 V 48 H 64 c -8.8 0 -16 7.2 -16 16 V 448 c 0 8.8 7.2 16 16 16 H 320 z M 0 64 C 0 28.7 28.7 0 64 0 H 229.5 c 17 0 33.3 6.7 45.3 18.7 l 90.5 90.5 c 12 12 18.7 28.3 18.7 45.3 V 448 c 0 35.3 -28.7 64 -64 64 H 64 c -35.3 0 -64 -28.7 -64 -64 V 64 z" stroke-linecap="round"/>
+</g>
+<g transform="matrix(0.9262 0 0 0.9262 499.9971 614.9211)" id="955253">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-256, -256)" d="M 305.8 2.1 C 314.4 5.9 320 14.5 320 24 V 64 h 16 c 70.7 0 128 57.3 128 128 V 358.7 c 28.3 12.3 48 40.5 48 73.3 c 0 44.2 -35.8 80 -80 80 s -80 -35.8 -80 -80 c 0 -32.8 19.7 -61 48 -73.3 V 192 c 0 -35.3 -28.7 -64 -64 -64 H 320 v 40 c 0 9.5 -5.6 18.1 -14.2 21.9 s -18.8 2.3 -25.8 -4.1 l -80 -72 c -5.1 -4.6 -7.9 -11 -7.9 -17.8 s 2.9 -13.3 7.9 -17.8 l 80 -72 c 7 -6.3 17.2 -7.9 25.8 -4.1 z M 104 80 A 24 24 0 1 0 56 80 a 24 24 0 1 0 48 0 z m 8 73.3 V 358.7 c 28.3 12.3 48 40.5 48 73.3 c 0 44.2 -35.8 80 -80 80 s -80 -35.8 -80 -80 c 0 -32.8 19.7 -61 48 -73.3 V 153.3 C 19.7 141 0 112.8 0 80 C 0 35.8 35.8 0 80 0 s 80 35.8 80 80 c 0 32.8 -19.7 61 -48 73.3 z M 104 432 a 24 24 0 1 0 -48 0 a 24 24 0 1 0 48 0 z m 328 24 a 24 24 0 1 0 0 -48 a 24 24 0 1 0 0 48 z" stroke-linecap="round"/>
+</g>
+</svg>
