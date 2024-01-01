@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./media/logo.svg" alt="VSPR Logo" width="70" />
 </p>
-VSPR (Visual Studio Pull Request) is an extension developed by GS that streamlines the process of documenting pull requests for changes within a repository. With a single click, this extension utilizes generative AI to create comprehensive and detailed documentation for your pull requests.
+VSPR (Visual Studio Pull Request) is an extension developed by me that streamlines the process of documenting pull requests for changes within a repository. With a single click, this extension utilizes generative AI to create comprehensive and detailed documentation for your pull requests.
 
 ## Features
 
@@ -33,9 +33,7 @@ Using VSPR is simple:
 
 This streamlined approach allows for quick access and execution of the PR documentation process without utilizing the command palette.
 
----
 
-*Developed by GS*
 
 <!-- Website: [gsprojects.com](https://gsprojects.com)
 GitHub: [@GS](https://github.com/GS) -->
